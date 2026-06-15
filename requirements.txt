@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+python-multipart
+markitdown[all]
+pymupdf4llm
+pytest
